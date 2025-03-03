@@ -21,7 +21,7 @@
 - **Dev Tools:** Git, GitHub, Docker, Postman  
 
 ### 📫 How to Reach Me  
-- [LinkedIn](https://www.linkedin.com/in/vineet-kundu-b83407218) | [Email](kunduvineet6@gmail.com) | Resume (https://drive.google.com/file/d/10ryvX2HN05xkU3Is9Odz2hGpY2yvGsO-/view?usp=drivesdk) | Portfolio(https://vk-portfolio-cd9d.vercel.app/)  
+- [LinkedIn](https://www.linkedin.com/in/vineet-kundu-b83407218) | [Email](kunduvineet6@gmail.com) | [Resume](https://drive.google.com/file/d/10ryvX2HN05xkU3Is9Odz2hGpY2yvGsO-/view?usp=drivesdk) | [Portfolio](https://vk-portfolio-cd9d.vercel.app/)  
 
 ### 😄 Pronouns  
 - He/Him  
