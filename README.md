@@ -1,90 +1,59 @@
-# ✫ About Me:
+<h1 align="center">Hi 👋, I'm Vineet Kundu</h1>
+<h3 align="center">Passionate Frontend Developer | Java Full Stack Enthusiast</h3>
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
-🚀 Passionate Frontend Developer with expertise in **React.js** and **Java Full Stack Development**.<br>  
-👨‍💻 Currently working at **Qubitets Technologies** as a Full Stack Java Web Developer.<br>  
-💡 Exploring **Spring Boot** and **System Design** to enhance my backend skills.<br>  
-🎯 Love building interactive applications and solving complex problems.<br>  
-📚 Currently diving deep into **TypeScript** and **Spring Boot**.<br>  
-🌟 Open to FullStack Development opportunities.<br>  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KunduVineet&label=Profile%20views&color=0e75b6&style=flat" alt="KunduVineet" /> </p>
 
----
+- 🔭 I’m currently working on **Full Stack Java Projects at Qubitets Technologies**
 
-## 🌐 Socials:
+- 🌱 I’m currently learning **TypeScript, Spring Boot, System Design**
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vineet-kundu-b83407218/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/KunduVineet/)  
-[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/helipack)  
-[![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/teeniv_udnuk?igsh=eHlld3RzbG5hMG92)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/VineetKundu/)  
-[![Resume](https://img.shields.io/badge/-Resume-green?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/1NpNFGWqG96RFRwNf5GCsE1hX7m76EaQ-/view?usp=drivesdk)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-blueviolet?style=for-the-badge&logo=vercel)](https://vk-portfolio-cd9d.vercel.app/)  
+- 👯 I’m looking to collaborate on **Full Stack Development Projects**
 
----
+- 🤝 I’m looking for help with **Open Source Contributions**
 
-## 💻 Tech Stack:
+- 💬 Ask me about **React.js, Java, Spring Boot, TypeScript, Three.js**
 
-### Frontend:
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)  
-![Three.js](https://img.shields.io/badge/-Three.js-black?style=for-the-badge&logo=three.js)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma)  
+- 📫 How to reach me **kunduvineet6@gmail.com**
 
-### Backend:
-![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)  
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=for-the-badge&logo=java)  
-![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?style=for-the-badge&logo=hibernate)  
-![Servlets](https://img.shields.io/badge/-Servlets-005A9C?style=for-the-badge&logo=java)  
+- ⚡ Fun fact **I love solving problems and building interactive apps!**
 
-### Databases:
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/vineet-kundu-b83407218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineet-kundu-b83407218" height="30" width="40" /></a>
+<a href="https://github.com/KunduVineet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KunduVineet" height="30" width="40" /></a>
+<a href="https://t.me/helipack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="helipack" height="30" width="40" /></a>
+<a href="https://instagram.com/teeniv_udnuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teeniv_udnuk" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/VineetKundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VineetKundu" height="30" width="40" /></a>
+<a href="https://drive.google.com/file/d/1NpNFGWqG96RFRwNf5GCsE1hX7m76EaQ-/view?usp=drivesdk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-drive.svg" alt="Resume" height="30" width="40" /></a>
+<a href="https://vk-portfolio-cd9d.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Portfolio" height="30" width="40" /></a>
+</p>
 
-### Mobile & Firebase:
-![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=for-the-badge&logo=firebase)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
+<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="springboot" width="40" height="40"/> </a>
+<a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
+</p>
 
-### Tools & Platforms:
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman)  
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=for-the-badge&logo=jira)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KunduVineet&show_icons=true&locale=en&layout=compact" alt="KunduVineet" /></p>
 
----
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=KunduVineet&show_icons=true&locale=en" alt="KunduVineet" /></p>
 
-## 📊 GitHub Stats:
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KunduVineet&show_icons=true&theme=radical)  
-
-![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KunduVineet&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KunduVineet&layout=compact&theme=radical&langs_count=6&hide=c++)  
-
----
-
-## 🏆 GitHub Badges:
-
-![GitHub YOLO Badge](https://img.shields.io/badge/GitHub-YOLO-brightgreen?style=for-the-badge&logo=github)  
-![Pull Shark Badge](https://img.shields.io/badge/Pull%20Shark-brightgreen?style=for-the-badge&logo=github)  
-![Quickdraw Badge](https://img.shields.io/badge/Quickdraw-brightgreen?style=for-the-badge&logo=github)  
-
----
-
-## 🚀 Projects:
-
-### 🌟 **Periodic Table** (React, Three.js, Spring Boot, OAuth, SQL)  
-📌 An interactive periodic table with animations and graph features, helping students visualize chemistry trends.  
-
-### 🌟 **GIF Generator** (React, Custom Hooks)  
-📌 A web app to generate random and keyword-based GIFs using Giphy API.  
-
-### 🌟 **Food Order Website** (React)  
-📌 A fully functional food ordering platform with cart and payment integration.  
-
-### 🌟 **Tours & Travel Web App** (React)  
-📌 A beautiful UI-based app displaying travel destinations using information cards.  
-
----
-
-### 🚀 Let's connect and build something amazing together! 😊  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KunduVineet&" alt="KunduVineet" /></p>
