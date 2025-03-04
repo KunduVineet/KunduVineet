@@ -11,7 +11,7 @@
 
 ## 🌐 Socials:
 
-[!(https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vineet-kundu-b83407218/)  
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vineet-kundu-b83407218/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/KunduVineet/)  
 [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/helipack)  
 [![Instagram](https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/teeniv_udnuk?igsh=eHlld3RzbG5hMG92)  
