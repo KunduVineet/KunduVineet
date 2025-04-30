@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vineet Kundu</h1>
 <h3 align="center">Passionate FullStack Developer | Java Full Stack Enthusiast</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KunduVineet&label=Profile%20views&color=0e75b6&style=flat" alt="Vineet Kundu" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunduVineet" alt="Vineet Kundu" /></a> </p>
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KunduVineet&label=Profile%20views&color=0e75b6&style=flat" alt="KunduVineet" /> </p>
 
 - 🔭 I’m currently working on **Full Stack Java Projects at Qubitnets Technologies**
