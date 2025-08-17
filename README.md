@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vineet Kundu</h1>
-<h3 align="center">FullStack Java Web and Android Developer | Java Full Stack Enthusiast</h3>
+<h3 align="center"> Junior Java Developer | AI/ML Learner | Java Full Stack Enthusiast</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunduVineet" alt="Vineet Kundu" /></a> </p>
@@ -7,15 +7,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KunduVineet&label=Profile%20views&color=0e75b6&style=flat" alt="KunduVineet" /> </p>
 
-- 🔭 I’m currently working on **Full Stack Java Projects at Qubitnets Technologies**
+- 🔭 I’m currently working on **Full Stack Java Projects at Novaluna Technologies**
 
-- 🌱 I’m currently learning **TypeScript, Spring Boot, System Design**
+- 🌱 I’m currently learning **AI/ML, Spring Boot, System Design**
 
 - 👯 I’m looking to collaborate on **Full Stack Development Projects**
 
 - 🤝 I’m looking for help with **Open Source Contributions**
 
-- 💬 Ask me about **React.js, Java, Spring Boot, TypeScript, Three.js**
+- 💬 Ask me about **Java8, Spring Boot, MicroServices, Apache Kafka, AI/ML**
 
 - 📫 How to reach me **kunduvineet6@gmail.com**
 
