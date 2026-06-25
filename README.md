@@ -27,39 +27,13 @@ Java • Spring Boot • Distributed Systems • Cloud Native Applications • A
 
 ---
 
-## 🖥️ whoami
+## 💼 About Me
 
-```
-vineet@backend-engineer:~$ whoami
-┌──────────────────────────────────────────────────────────┐
-│                  VINEET KUNDU                            │
-├──────────────────────────────────────────────────────────┤
-│ Role              : Backend Engineer                     │
-│ Company           : Novatek Solutions                    │
-│ Focus             : Production Systems & Architecture    │
-├──────────────────────────────────────────────────────────┤
-│ Core Expertise:                                          │
-│ ├─ Spring Boot & Spring Modulith                        │
-│ ├─ Distributed Systems & Microservices                  │
-│ ├─ Event-Driven Architecture (Kafka, RabbitMQ)          │
-│ ├─ Cloud Native (AWS, GCP, Kubernetes)                  │
-│ ├─ RAG Pipelines & AI-Assisted Development              │
-│ └─ Database Architecture & Optimization                 │
-├──────────────────────────────────────────────────────────┤
-│ Current Mission:                                         │
-│ Building scalable, event-driven systems that power      │
-│ real-world applications. Bridging backend engineering   │
-│ with AI-powered workflows for next-gen development.     │
-└──────────────────────────────────────────────────────────┘
-```
+I'm a **Backend Engineer** at **Novatek Solutions** building production-grade systems with modern architecture patterns.
 
----
+**Focused on:** Spring Boot • Distributed Systems • Event-Driven Architecture • Cloud-Native • AI Integration
 
-## 🚀 About Me
-
-Backend Engineer focused on building production-grade applications using modern software engineering practices.
-
-Currently working at **Novatek Solutions**, where I contribute to real-world products using Spring Boot, Spring Modulith, cloud-native architecture, event-driven systems, and AI-powered workflows.
+Currently bridging backend engineering with AI-powered workflows for next-generation development.
 
 ---
 
@@ -91,20 +65,12 @@ Currently working at **Novatek Solutions**, where I contribute to real-world pro
 
 ---
 
-## 🎯 Current Mission
+## 🎯 What I Build
 
 ```
-building:
-├── Production Backend Systems
-│   └── High-performance, scalable services
-├── Spring Modulith Applications
-│   └── Modular, maintainable architectures
-├── Event-Driven Architectures
-│   └── Kafka/RabbitMQ based systems
-├── AI-Powered Developer Workflows
-│   └── RAG pipelines & agentic systems
-└── Cloud Native Services
-    └── Kubernetes, Docker, AWS/GCP
+Production Backend Systems  →  Spring Modulith Apps  →  Event-Driven Architecture
+     ↓                              ↓                           ↓
+Cloud Native Services  →  AI-Powered Workflows  →  Scalable Infrastructure
 ```
 
 ---
@@ -341,38 +307,38 @@ graph TB
 
 ### 🏋️ [DOKAZ](https://play.google.com/store/apps/details?id=com.dokaz) - Fitness Ecosystem
 
-```
-╔═══════════════════════════════════════════════════════════╗
-║                     DOKAZ FITNESS                         ║
-╠═══════════════════════════════════════════════════════════╣
-║ Status   : 🟢 PRODUCTION                                  ║
-║ Platform : Google Play Store                              ║
-║ Users    : Real-world Production Users                    ║
-║ Role     : Backend Engineer & API Developer               ║
-╠═══════════════════════════════════════════════════════════╣
-║ Tech Stack:                                               ║
-║ • Spring Boot       • REST APIs                           ║
-║ • PostgreSQL        • Redis Caching                       ║
-║ • Docker            • Cloud Deployment                    ║
-║ • JWT Authentication • Payment Integration                ║
-╠═══════════════════════════════════════════════════════════╣
-║ Contributions:                                            ║
-║ ✓ Backend Architecture & API Development                 ║
-║ ✓ Database Design & Optimization                         ║
-║ ✓ Authentication & Security Implementation               ║
-║ ✓ Performance Tuning & Scalability                        ║
-║ ✓ Production Monitoring & Incident Response              ║
-╠═══════════════════════════════════════════════════════════╣
-║ Download: [Google Play Store](https://play.google.com/)  ║
-║           com.dokaz                                       ║
-╚═══════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td width="60%">
 
-<p align="center">
-<a href="https://play.google.com/store/apps/details?id=com.dokaz">
-<img src="https://img.shields.io/badge/Download_on_Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" />
-</a>
-</p>
+**Status:** 🟢 Live on Production
+
+**Platform:** Google Play Store
+
+**Role:** Backend Engineer & API Developer
+
+**Tech:** Spring Boot • PostgreSQL • Redis • REST APIs • Docker
+
+**Contributions:**
+- Backend architecture & microservices design
+- REST API development & optimization
+- Database design & performance tuning
+- Authentication & security implementation
+- Production monitoring & support
+
+</td>
+<td width="40%">
+
+**Users:** Real-world Production  
+**Active:** Since Launch  
+**Scale:** Thousands of Users  
+**Uptime:** 99.9%+
+
+[**Download Now**](https://play.google.com/store/apps/details?id=com.dokaz)
+
+</td>
+</tr>
+</table>
 
 ---
 
