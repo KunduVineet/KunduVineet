@@ -244,35 +244,45 @@ Status: Under Active Development
 
 ---
 
-## 🔒 Private Repository Contributions
+## 🏢 Enterprise Engineering Experience
 
-A significant portion of my work is performed within private repositories and internal products.
+Most of my recent engineering work is performed in private repositories at Novatek Solutions.
 
-Areas of contribution include:
+### Areas of Contribution
 
-* Backend Architecture
-* Feature Development
-* System Design
-* API Development
-* Database Design
-* Testing Strategy
-* Technical Documentation
-* Deployment Workflows
-* Production Support
+- Spring Modulith Architecture
+- Microservices Development
+- Liquibase Database Migrations
+- Event-Driven Systems
+- Kafka & RabbitMQ Integration
+- Redis Caching
+- Multi-Environment Deployments
+- CI/CD Pipelines
+- API Documentation
+- Technical Documentation
+- Unit & Integration Testing
+- Production Support
+- AI-Assisted Development Workflows
 
----
+## ⚡ Developer Dashboard
 
-## 🚀 Future Enhancements
+### Contribution Snake
 
-Planned profile improvements:
+<p align="center">
+<img src="https://raw.githubusercontent.com/KunduVineet/KunduVineet/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+</p>
 
-* GitHub Metrics Dashboard
-* Contribution Snake Animation
-* Automated Activity Tracking
+### GitHub Metrics
 
-These will eventually replace the summary-card section and provide a more advanced developer profile experience.
+<p align="center">
+<img src="https://raw.githubusercontent.com/KunduVineet/KunduVineet/main/github-metrics.svg" alt="GitHub Metrics" />
+</p>
 
----
+### Activity Overview
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunduVineet&theme=tokyo-night&hide_border=true" />
+</p>
 
 <h3 align="center">
 
