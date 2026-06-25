@@ -1,43 +1,34 @@
 # Hi 👋, I'm Vineet Kundu
 
 <h3 align="center">
-Backend Engineer • Java & Spring Boot Developer • Cloud & Distributed Systems Enthusiast
+Backend Engineer @ Novatek Solutions
 </h3>
 
 <p align="center">
-Building scalable backend systems, cloud-native applications, and AI-powered solutions.
+Java • Spring Boot • Distributed Systems • Cloud Native Applications • AI-Assisted Development
 </p>
 
 <p align="center">
-  <a href="https://komarev.com/ghpvc/?username=KunduVineet">
-    <img src="https://komarev.com/ghpvc/?username=KunduVineet&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=KunduVineet&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="60%">
+I'm a Backend Engineer focused on building production-grade applications using modern software engineering practices.
 
-* 💼 Software Developer at **Novaluna Technologies**
-* 🔭 Building **Spring Boot Microservices**
-* 🌱 Learning **Kubernetes, Cloud Architecture, AI/ML**
-* 🤝 Open to collaborating on Backend & AI projects
-* 💬 Ask me about **Java, Spring Boot, Kafka, RabbitMQ, Redis**
-* ⚡ Passionate about scalable systems and distributed architecture
+Currently working at **Novatek Solutions**, where I contribute to real-world products using Spring Boot, Spring Modulith, cloud-native architecture, event-driven systems, and AI-powered workflows.
 
-</td>
+### Current Areas of Focus
 
-<td width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KunduVineet&show_icons=true&theme=tokyonight&hide_border=true" />
-
-</td>
-</tr>
-</table>
+* Backend Engineering
+* Spring Boot & Spring Modulith
+* Microservices & Distributed Systems
+* Cloud Architecture (AWS & GCP)
+* AI-Assisted Development
+* RAG Applications
+* System Design
 
 ---
 
@@ -46,69 +37,24 @@ Building scalable backend systems, cloud-native applications, and AI-powered sol
 <p align="center">
 
 <a href="https://linkedin.com/in/vineet-kundu-b83407218">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/KunduVineet">
-<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://t.me/helipack">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48"/>
+<img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 <a href="mailto:kunduvineet6@gmail.com">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="48"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://leetcode.com/u/VineetKundu">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-
-</p>
-
----
-
-## 🛠 Tech Stack
-
-### Backend & Architecture
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgresql,redis,kafka,rabbitmq" />
-</p>
-
-### Cloud & DevOps
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,linux" />
-</p>
-
-### Frontend
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind" />
-</p>
-
-### Development Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,figma" />
-</p>
-
----
-
-## ⚡ Engineering Interests
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/System_Design-0A192F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Distributed_Systems-0A192F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Microservices-0A192F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Cloud_Native-0A192F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Event_Driven-0A192F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG-0A192F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Image_to_Image_AI-0A192F?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI_ML-0A192F?style=for-the-badge" />
 
 </p>
 
@@ -121,7 +67,7 @@ mindmap
   root((Backend Engineering))
     Java
       Spring Boot
-      Microservices
+      Spring Modulith
       REST APIs
     Cloud
       AWS
@@ -139,8 +85,116 @@ mindmap
     AI
       RAG
       Image-to-Image
-      Machine Learning
+      AI Assisted Development
 ```
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,redis,kafka,rabbitmq" />
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,linux" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind" />
+</p>
+
+### Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,figma" />
+</p>
+
+---
+
+## 💼 Production Engineering Experience
+
+### Backend Development
+
+* Spring Boot Applications
+* Spring Modulith Architecture
+* RESTful API Design
+* Modular System Design
+* Event-Driven Architecture
+
+### Messaging & Data
+
+* Apache Kafka
+* RabbitMQ
+* Redis
+* PostgreSQL
+* MySQL
+
+### DevOps & Delivery
+
+* Docker Containerization
+* Kubernetes
+* AWS Services (EC2, S3, RDS, IAM)
+* GCP
+* Multi-Environment Deployments
+
+### Engineering Practices
+
+* Liquibase Database Migrations
+* Extensive Unit & Integration Testing
+* API Documentation
+* Technical Documentation
+* CI/CD Pipelines
+* Code Reviews
+* Agile Development
+
+### Environment Strategy
+
+* Development
+* Testing
+* Staging
+* Production
+
+---
+
+## 🚀 Featured Work
+
+### 🏋️ DOKAZ Fitness Platform
+
+Production-grade fitness application available on Google Play.
+
+Key Contributions:
+
+* Backend Development
+* API Development
+* Database Integration
+* Feature Implementation
+* Production Bug Resolution
+* Engineering Collaboration
+
+Play Store:
+
+https://play.google.com/store/apps/details?id=com.dokaz
+
+---
+
+### 🏥 Healthcare Platform (In Development)
+
+Currently contributing to a healthcare-focused platform involving:
+
+* Scalable Backend Services
+* Cloud-Native Architecture
+* Secure Data Processing
+* Modular Design
+* Production Engineering Practices
+
+Status: Under Active Development
 
 ---
 
@@ -177,58 +231,51 @@ mindmap
 
 ---
 
-## ☁️ Current Learning Path
+## 💡 Professional Highlights
 
-```mermaid
-flowchart LR
-
-A[Java Backend] --> B[Spring Boot]
-B --> C[Microservices]
-C --> D[Kafka & RabbitMQ]
-D --> E[Docker]
-E --> F[Kubernetes]
-F --> G[AWS & GCP]
-G --> H[Distributed Systems]
-H --> I[System Design]
-I --> J[AI Applications]
-```
+* Building production applications at Novatek Solutions
+* Contributed to the DOKAZ fitness ecosystem
+* Working on healthcare platform development
+* Experience with Spring Modulith architecture
+* Experience with event-driven systems
+* Cloud-native development practices
+* AI-assisted engineering workflows
+* Strong focus on maintainability and documentation
 
 ---
 
-## 🚀 Featured Domains
+## 🔒 Private Repository Contributions
 
-| Domain              | Technologies                      |
-| ------------------- | --------------------------------- |
-| Backend Development | Java, Spring Boot, JPA, Hibernate |
-| Distributed Systems | Kafka, RabbitMQ, Redis            |
-| Cloud Computing     | AWS, GCP                          |
-| Containerization    | Docker, Kubernetes                |
-| Frontend            | React, TypeScript                 |
-| AI Engineering      | RAG, Image-to-Image Synthesis, ML |
+A significant portion of my work is performed within private repositories and internal products.
 
----
+Areas of contribution include:
 
-## 🎯 Professional Focus
-
-```text
-Backend Engineering
-Cloud Native Development
-Microservices Architecture
-Distributed Systems
-AI-Powered Applications
-System Design
-```
+* Backend Architecture
+* Feature Development
+* System Design
+* API Development
+* Database Design
+* Testing Strategy
+* Technical Documentation
+* Deployment Workflows
+* Production Support
 
 ---
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KunduVineet&theme=tokyonight" />
-</p>
+## 🚀 Future Enhancements
+
+Planned profile improvements:
+
+* GitHub Metrics Dashboard
+* Contribution Snake Animation
+* Automated Activity Tracking
+
+These will eventually replace the summary-card section and provide a more advanced developer profile experience.
 
 ---
 
 <h3 align="center">
 
-Code • Learn • Build • Repeat 🚀
+Code • Learn • Build • Scale 🚀
 
 </h3>
