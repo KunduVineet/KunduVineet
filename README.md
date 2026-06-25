@@ -1,60 +1,184 @@
 <h1 align="center">Hi 👋, I'm Vineet Kundu</h1>
-<h3 align="center"> Junior Java Developer | AI/ML Learner | Java Full Stack Enthusiast</h3>
 
+<h3 align="center">
+Backend Engineer • Java & Spring Boot Developer • Cloud & Distributed Systems Enthusiast
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=KunduVineet&theme=darkhub" alt="Vineet Kundu" /></a> </p>
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=KunduVineet&label=Profile%20views&color=0e75b6&style=flat" alt="KunduVineet" /> </p>
-
-- 🔭 I’m currently working on **Full Stack Java Projects at Novaluna Technologies**
-
-- 🌱 I’m currently learning **AI/ML, Spring Boot, System Design**
-
-- 👯 I’m looking to collaborate on **Full Stack Development Projects**
-
-- 🤝 I’m looking for help with **Open Source Contributions**
-
-- 💬 Ask me about **Java8, Spring Boot, MicroServices, Apache Kafka, AI/ML**
-
-- 📫 How to reach me **kunduvineet6@gmail.com**
-
-- ⚡ Fun fact **I love solving problems and building interactive apps!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vineet-kundu-b83407218" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vineet-kundu-b83407218" height="30" width="40" /></a>
-<a href="https://github.com/KunduVineet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="KunduVineet" height="30" width="40" /></a>
-<a href="https://t.me/helipack" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="helipack" height="30" width="40" /></a>
-<a href="https://instagram.com/teeniv_udnuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="teeniv_udnuk" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/VineetKundu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="VineetKundu" height="30" width="40" /></a>
-<a href="https://drive.google.com/file/d/1NpNFGWqG96RFRwNf5GCsE1hX7m76EaQ-/view?usp=drivesdk" target="blank"><span style="color: #00FF00; font-weight: bold;">Resume</span></a>
-<a href="https://vk-portfolio-cd9d.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Portfolio" height="30" width="40" /></a>
+<p align="center">
+Building scalable backend systems, cloud-native applications, and AI-powered solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-<a href="https://threejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/threejs/threejs-original.svg" alt="threejs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/> </a>
-<a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="jira" width="40" height="40"/> </a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=KunduVineet&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KunduVineet&show_icons=true&locale=en&layout=compact" alt="KunduVineet" /></p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=KunduVineet&show_icons=true&locale=en" alt="KunduVineet" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KunduVineet&" alt="KunduVineet" /></p>
+---
+
+## 🚀 About Me
+
+- 💼 Software Developer at **Novaluna Technologies**
+- 🔭 Currently building **Spring Boot Microservices**
+- 🌱 Learning **Advanced System Design, Kubernetes, Cloud Architecture, AI/ML**
+- 🤝 Open to collaborating on **Backend, Cloud, and AI Projects**
+- 💬 Ask me about **Java, Spring Boot, Kafka, RabbitMQ, Redis, Docker, Kubernetes**
+- 🎯 Goal: Become a highly skilled **Backend & Platform Engineer**
+- ⚡ Passionate about scalable systems, distributed architecture, and problem solving
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/vineet-kundu-b83407218">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://github.com/KunduVineet">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://t.me/helipack">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" width="48"/>
+</a>
+
+<a href="mailto:kunduvineet6@gmail.com">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="48"/>
+</a>
+
+<a href="https://leetcode.com/u/VineetKundu">
+<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" width="48"/>
+</a>
+
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,maven,mysql,postgresql,redis,kafka,rabbitmq" />
+</p>
+
+### Cloud & DevOps
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,githubactions,linux" />
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,typescript,javascript,html,css,tailwind" />
+</p>
+
+### Development Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,postman,figma" />
+</p>
+
+### Engineering Interests
+
+```text
+• System Design
+• Distributed Systems
+• Microservices Architecture
+• Cloud Native Applications
+• Event-Driven Systems
+• RAG Applications
+• Image-to-Image Synthesis
+• AI/ML Engineering
+```
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=KunduVineet&theme=algolia&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=KunduVineet&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunduVineet&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KunduVineet&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunduVineet&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 📋 GitHub Summary
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KunduVineet&theme=tokyonight" />
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KunduVineet&theme=tokyonight" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KunduVineet&theme=tokyonight" />
+
+</p>
+
+<p align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KunduVineet&theme=tokyonight" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KunduVineet&theme=tokyonight" />
+
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- Building production-grade Spring Boot applications
+- Learning Kubernetes and Cloud Deployments
+- Mastering System Design & Distributed Systems
+- Exploring RAG Pipelines and Generative AI
+- Improving DevOps and Platform Engineering skills
+
+---
+
+## 🎯 2026 Roadmap
+
+- ✅ Advanced Spring Boot
+- ✅ Docker Containerization
+- 🔄 Kubernetes
+- 🔄 AWS Cloud Services
+- 🔄 Distributed Systems
+- 🔄 AI/ML Applications
+- 🔄 Open Source Contributions
+
+---
+
+<p align="center">
+
+### "Code • Learn • Build • Repeat"
+
+</p>
